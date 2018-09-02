@@ -1,0 +1,8 @@
+    <!--Centtered in Parent-->
+    <TextView
+        android:id="@+id/tv00001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textAppearance="?android:textAppearanceMedium"        
+        android:text="TextView tv00001" />
